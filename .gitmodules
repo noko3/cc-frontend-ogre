@@ -1,0 +1,9 @@
+[submodule "deps/cegui"]
+	path = deps/cegui
+	url = ./deps/cegui
+[submodule "deps/openal"]
+	path = deps/openal
+	url = http://repo.or.cz/openal-soft.git
+[submodule "deps/ogre"]
+	path = deps/ogre
+	url = ./deps/ogre/
